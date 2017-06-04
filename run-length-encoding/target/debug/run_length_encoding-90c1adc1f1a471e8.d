@@ -1,0 +1,1 @@
+/root/exercism/rust/run-length-encoding/target/debug/run_length_encoding-90c1adc1f1a471e8: /root/exercism/rust/run-length-encoding/src/lib.rs /root/exercism/rust/run-length-encoding/tests/run-length-encoding.rs
